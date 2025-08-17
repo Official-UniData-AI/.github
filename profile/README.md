@@ -6,7 +6,6 @@ The modern world is awash in data, much of it complex and difficult to process. 
 
 The rapid pace of technological advancement and globalization has created an unprecedented information challenge. Individuals and organizations across all sectors face the need to process increasingly complex data to make informed decisions. Traditional methods of information processing are often inadequate, leading to information overload, missed opportunities, and potential risks. UniData offers a solution by providing an intelligent platform for processing and visualizing complex information, applicable across diverse fields.
 
----
 
 # Vision & Mission
 
@@ -15,8 +14,6 @@ To empower individuals and organizations to navigate the complexities of informa
 
 ### Mission:
 To develop and deliver cutting-edge AI-powered solutions that transform complex data into easily digestible and actionable intelligence, fostering informed decision-making across all domains and continuously pushing the boundaries of what's possible in information processing and visualization.
-
----
 
 # Key Features and Benefits
 
@@ -38,10 +35,8 @@ Deconstructs complex documents into easily digestible formats, making specialize
 ### Increased Productivity
 Automates information processing tasks, freeing up time for higher-value activities and creative thinking.
 
----
-
 # Use Case 
-## UniData: Understanding Complex Information, Even If You're Not Involved in Crypto
+UniData: Understanding Complex Information, Even If You're Not Involved in Crypto
 
 ### Academic Research
 Summarizing research papers, identifying key findings, and creating comprehensive literature reviews that would otherwise take weeks to compile manually.
