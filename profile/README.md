@@ -1,3 +1,5 @@
+![UniData Banner](/images/unidata-banner.jpg)
+
 # UniData: Revolutionize Understanding with Intelligent Visuals
 
 The modern world is awash in data, much of it complex and difficult to process. From technical documentation and market analyses to regulatory updates and news articles, staying informed requires efficient processing and understanding of vast amounts of data. UniData is a cutting-edge platform designed to address this challenge. By leveraging advanced Natural Language Processing (NLP) and Large Language Model (LLM) AI technology, UniData transforms complex data into actionable insights, empowering users across various domains to navigate information overload with greater clarity and efficiency. While initially conceived within the cryptocurrency landscape, its core functionality of intelligent information processing extends far beyond, offering significant value to a broad audience.
