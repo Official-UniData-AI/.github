@@ -1,4 +1,4 @@
-![UniData Banner](/images/unidata-banner.jpg)
+![UniData Banner](/unidata-banner.jpg)
 
 # UniData: Revolutionize Understanding with Intelligent Visuals
 
